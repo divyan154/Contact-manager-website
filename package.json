@@ -2,7 +2,7 @@
   "name": "contact-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://divyan154.github.io/contact-app",
+  "homepage": "https://divyan154.github.io/Contact-manager-website/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
